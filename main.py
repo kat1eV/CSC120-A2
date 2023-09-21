@@ -32,7 +32,7 @@ def main():
     print("-" * 21)
 
     # Add it to the resale store's inventory
-    print("Buying", computer["description"])
+    print("Buying", Computer["description"])
     print("Adding to inventory...")
     computer_id = ResaleShop.buy(computer)
     print("Done.\n")

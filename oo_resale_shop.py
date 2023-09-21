@@ -27,7 +27,7 @@ class ResaleShop:
     def buyComputer(self, description: str, processor_type: str, hard_drive_capacity: int, memory: int, operating_system: str, year_made: int, price: int):
         self.itemID += 1 # increment itemID
         self.inventory[self.itemID] = self.computer
-        c = Computer(description, processor_type, hard_drive_capacity, memory, operating_system,year_made, price )
+        c = Computer(description, processor_type, hard_drive_capacity, memory, operating_system,year_made, price ) 
         self.inventory.append(c) #adds computer to inventory
         print("Your newly bought " + c + " has been added to your resale shop inventory!")
 

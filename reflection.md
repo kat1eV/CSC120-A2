@@ -7,5 +7,6 @@ This project has been a very big struggle for me. I began working on it Friday 9
 
 I would reccomend to future students taking the class that begining the project as early as possible is very much a good idea. I found that although i was confused and stressed about doing the actual coding, I was able to get some gears turning on planning and was able to plan when i would take time to work on the project ahead of time so i wouldnt be stressed about finding time during the week it's due. TA hours were super helpful as well as talking to peers currently taking the course and those who had already taken it, but it's helpful to take all advice with agrain of salt because someone else's approach of coding something may be completely different to how you would inherently approach it and feel most comfortable doing. 
 
-Although I am not so confident in my python proficiecy in this project, I feel that i genuinley put in a lot of effort and time and
+Although I am not so confident in my python proficiecy in this project, I feel that I genuinley put in a lot of effort and time and
 tried my hardest to approach this without overwhelming myself, and I feel i did the best that I am currently capable of in this assignment.
+
