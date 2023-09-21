@@ -21,7 +21,7 @@ ____ 1 pt: All expected attributes for `ResaleShop` class are present **YES**
 
 ____ 1 pt: All expected methods for `ResaleShop` class are present **YES**
 
-____ 1 pt: Constructor for `ResaleShop` class is present and sets attributes correctly **PART**
+____ 1 pt: Constructor for `ResaleShop` class is present and sets attributes correctly **YES**
 
 ### Level 3 (4 pts)
 
@@ -31,20 +31,20 @@ ____ 1 pt: Can successfully remove a `Computer` from the inventory **YES**
 
 ____ 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory **YES**
 
-____ 1 pt: Program prints appropriate error messages
+____ 1 pt: Program prints appropriate error messages **PART**
 
 ## General Items (10 pts):
 
-_____ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+_____ 4 pts: Program executes fully & consistently without crashing (exception/freeze) **PART**
 
-_____ 1 pt: Classes & class members all have header comments
+_____ 1 pt: Classes & class members all have header comments **YES**
 
-_____ 1 pt: Clear and consistent indentation
+_____ 1 pt: Clear and consistent indentation **YES**
 
-_____ 1 pt: Adheres to conventions on naming / capitalization
+_____ 1 pt: Adheres to conventions on naming / capitalization **YES**
 
-_____ 1 pt: Methods and variables all have clear and descriptive names
+_____ 1 pt: Methods and variables all have clear and descriptive names **YES**
 
-_____ 1 pt: All required files included with submission (including completed checklist file)
+_____ 1 pt: All required files included with submission (including completed checklist file) **YES**
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+_____ 1 pt: `reflection.md` contains your reflection on the assignment **YES**
